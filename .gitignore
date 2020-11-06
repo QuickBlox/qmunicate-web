@@ -1,6 +1,7 @@
 .sass-cache
 app/.css
 .tmp
+.DS_Store
 
 # bower & npm packages
 app/bower_components

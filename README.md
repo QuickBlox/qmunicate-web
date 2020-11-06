@@ -1,4 +1,4 @@
-# Q-municate
+# Source code removed from the public access, if you are interested in Q-municate please [contact us](https://communication.quickblox.com/q-municate#rec209621870)
 
 [Q-municate](https://q-municate.com) is an open source code chat application with wide range of communication features available (such as one-to-one messaging, group chat messaging, file transfers, notifications, Facebook signup and audio/video calls).
 
